@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sensor_android_app</string>
+    <string name="shake_to_switch_color">Shake to switch color</string>
+</resources>
