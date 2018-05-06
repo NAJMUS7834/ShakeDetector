@@ -1,5 +1,7 @@
 package com.example.najmus.sensor_android_app;
-
+/*====================================
+    Author : NAJMUS SEEMAB
+======================================*/
 import org.junit.Test;
 
 import static org.junit.Assert.*;
