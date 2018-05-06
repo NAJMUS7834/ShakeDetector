@@ -1,4 +1,7 @@
 package com.example.najmus.sensor_android_app;
+/*====================================
+    Author : NAJMUS SEEMAB
+======================================*/
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
